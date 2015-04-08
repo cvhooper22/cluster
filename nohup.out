@@ -1,0 +1,465 @@
+num CPUs:  1
+Worker: 32713
+Worker: 32714
+Worker: 32716
+Worker: 32717
+ID32717
+[0mGET / [36m304 [0m14.158 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m6.836 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m7.825 ms - -[0m
+service ID32714
+[0mGET /pid [32m200 [0m3.339 ms - 31[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.959 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.383 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.482 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.345 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.358 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.375 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.334 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.361 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.368 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.550 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.413 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.840 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.367 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.414 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.454 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.423 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.488 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.756 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.379 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.534 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.371 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.368 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.347 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.369 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.637 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.491 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.422 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.656 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.345 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.468 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.566 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.533 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.577 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.607 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.610 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.574 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.599 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.943 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.434 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.675 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.672 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m1.193 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.551 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.553 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.598 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.595 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.837 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m1.376 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.592 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.629 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m11.310 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.645 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.641 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.629 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.624 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.627 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.546 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.393 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m2.477 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.467 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m1.443 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.439 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.412 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m1.174 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.501 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.530 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.556 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.358 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.685 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.449 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.450 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.468 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.697 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.509 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.467 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.436 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m1.175 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.403 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.442 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.560 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.814 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.447 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.670 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.708 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.557 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.426 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.374 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.758 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.413 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.432 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.459 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.663 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.580 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.404 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.516 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m1.560 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.435 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m1.004 ms - -[0m
+service ID32714
+[0mGET /pid [36m304 [0m0.403 ms - -[0m
+num CPUs:  1
+Worker: 32761
+Worker: 32764
+Worker: 32765
+Worker: 32763
+ID32765
+[0mGET / [36m304 [0m14.239 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m2.460 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m6.723 ms - -[0m
+num CPUs:  1
+Worker: 313
+Worker: 314
+Worker: 316
+Worker: 317
+num CPUs:  1
+Worker: 352
+Worker: 353
+Worker: 356
+Worker: 355
+ID355
+[0mGET / [36m304 [0m14.148 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m2.628 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.849 ms - -[0m
+ID355
+[0mGET / [36m304 [0m1.683 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m0.740 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.678 ms - -[0m
+ID355
+[0mGET / [36m304 [0m0.906 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m0.529 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.320 ms - -[0m
+ID355
+[0mGET / [36m304 [0m0.839 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m2.300 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m6.832 ms - -[0m
+ID355
+[0mGET / [36m304 [0m0.749 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m0.763 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m6.815 ms - -[0m
+service ID356
+[0mGET /pid [32m200 [0m3.689 ms - 29[0m
+service ID356
+[0mGET /pid [36m304 [0m1.048 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.629 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.562 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.473 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.532 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.585 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.545 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.795 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.547 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.874 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.559 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m1.309 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.633 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.586 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.747 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.587 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.686 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.602 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.580 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.567 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.533 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.562 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.649 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.664 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.744 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.629 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.542 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.622 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.657 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.586 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.790 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.627 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.476 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.626 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.532 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.592 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.514 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.549 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.891 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.686 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m2.110 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.572 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.592 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.547 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.506 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.575 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.886 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m1.379 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.602 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.636 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m1.121 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.598 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.611 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.617 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.645 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.591 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.683 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.570 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m2.354 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.764 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.985 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.628 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m1.708 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m1.229 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.726 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.744 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.622 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.590 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.933 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.882 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.633 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.627 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.749 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m1.332 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.720 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.614 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m1.204 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.676 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.494 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.643 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.818 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.724 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.753 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.396 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.719 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.628 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.538 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m1.144 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.604 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.729 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.515 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.620 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.444 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.524 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.512 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.472 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.548 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.615 ms - -[0m
+service ID356
+[0mGET /pid [36m304 [0m0.669 ms - -[0m
+num CPUs:  1
+Worker: 484
+Worker: 485
+Worker: 487
+Worker: 488
+ID488
+[0mGET / [36m304 [0m14.097 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.669 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m0.693 ms - -[0m
+service ID488
+[0mGET /pid [32m200 [0m1.819 ms - 29[0m
+service ID488
+[0mGET /pid [36m304 [0m0.748 ms - -[0m
+ID488
+[0mGET / [36m304 [0m1.300 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m0.540 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.404 ms - -[0m
